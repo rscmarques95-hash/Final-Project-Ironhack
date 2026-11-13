@@ -1,0 +1,14 @@
+OUR OWN PHOTOS FOR THE APP
+==========================
+Put the photos in this folder (app/photos).
+The name of the file starts with the name of the place or of the town, as it appears in the app.
+After the name you can add " — ", ", " or " (" and any text.
+Examples:
+    Monsanto.jpg
+    Óbidos.jfif
+    Porto — Ribeira.jfif
+    Santa Cruz das Flores, Portugal.jfif
+    Lisbon.jfif  (Lisboa also works with the English name)
+Formats: .jpg, .jpeg, .jfif, .png or .webp
+The app uses our photo first. If there is no photo with that name, it looks for one on the internet.
+New photos appear in the app without restarting it (refresh the page).

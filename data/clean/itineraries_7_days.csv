@@ -1,0 +1,50 @@
+package,day,town,places,you must try,note,island
+🌲 Nature Escape · Açores,1,Ponta Delgada,Monumento Natural Regional do Pico das Camarinhas e Ponta da Ferraria · Zona de Paisagem Protegida das Sete Cidades,Polvo assado no forno,,São Miguel
+🌲 Nature Escape · Açores,2,Ponta Delgada,Gruta do Carvão · Reserva Florestal de Recreio do Pinhal da Paz,Sopas do Espírito Santo,🔁 More to see,São Miguel
+🌲 Nature Escape · Açores,3,Ponta Delgada,Ponta da Bretanha · Feteiras,Cracas cozidas,🔁 More to see,São Miguel
+🌲 Nature Escape · Açores,4,Ribeira Grande,Monumento Natural da Caldeira Velha · Ponta do Cintrão-Ponta da Maia,Lapas grelhadas dos Açores,,São Miguel
+🌲 Nature Escape · Açores,5,Povoação,Reserva Florestal Natural Parcial do Pico da Vara · Ponta do Arnel,Alcatra da Ilha Terceira,,São Miguel
+🌲 Nature Escape · Açores,6,Vila Franca do Campo,Caloura-Ilhéu de Vila Franca do Campo · Serra de Água de Pau,Cozido das Furnas,,São Miguel
+🌲 Nature Escape · Açores,7,Lagoa (Açores),Lagoa do Fogo,Ananás dos Açores,,São Miguel
+🏖️ Beach & Sun · Algarve,1,Albufeira,Alemães,Xarém com conquilhas,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,2,Albufeira,INATEL – Albufeira,Muxama de atum,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,3,Albufeira,Rocha Baixinha,Percebes de Aljezur,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,4,Albufeira,Peneco,Perdiz à Algarvia,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,5,Albufeira,Aveiros,Dom Rodrigo,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,6,Albufeira,Oura,Mel da Serra de Monchique,🏖️ Beach day · stay in Albufeira,
+🏖️ Beach & Sun · Algarve,7,Albufeira,Oura-Leste,Sal de Tavira ou Flor de Sal de Tavira,🏖️ Beach day · stay in Albufeira,
+🏡 Historic Villages · Centro,1,Almeida,Almeida · Castelo Mendo,"Queijo Serra da Estrela, Leitão da Bairrada",,
+🏡 Historic Villages · Centro,2,Mangualde,Anta de Cunha Baixa · Castro do Bom Sucesso,"Chanfana, Coelho à Caçador",💎 Hidden gem,
+🏡 Historic Villages · Centro,3,Arganil,Piódão · Benfeita,"Perdiz de escabeche, Pastéis de Tentúgal",,
+🏡 Historic Villages · Centro,4,Góis,Aigra Nova · Aigra Velha,"Sopa de peixe da Figueira, Camarão da Costa da Figueira",,
+🏡 Historic Villages · Centro,5,Fundão,Castelo Novo · Barroca,"Ovos moles de Aveiro, Azeites da Beira Interior",,
+🏡 Historic Villages · Centro,6,Idanha-a-Nova,Idanha-a-Velha · Monsanto,"Carne Marinhoa, Borrego Serra da Estrela",,
+🏡 Historic Villages · Centro,7,Belmonte,Belmonte,"Maçã Bravo de Esmolfe, Pêra Rocha do Oeste",,
+🔭 Island Views · Madeira,1,Santana,Reserva Natural do Sítio da Rocha do Navio · Arco de São Jorge · Queimadas,Coelho do Porto Santo à Caçador,,Madeira
+🔭 Island Views · Madeira,2,São Vicente,Pico Casado · Chão dos Louros · Bica da Cana,Bolo do Caco,,Madeira
+🔭 Island Views · Madeira,3,Porto Moniz,Parque Natural da Madeira · Santinha · Aduelas (Curral Falso),Lapas da Madeira,,Madeira
+🔭 Island Views · Madeira,4,Calheta (Madeira),Rabaçal · Paul · Risco,Bife de atum à Madeirense,,Madeira
+🔭 Island Views · Madeira,5,Câmara de Lobos,Monumento Natural do Cabo Girão · Teleférico do Rancho · Paisagem Protegida do Cabo Girão,Espetada de carne de vaca em espeto de pau de louro,,Madeira
+🔭 Island Views · Madeira,6,Funchal,Montado do Pereiro · Pico dos Barcelos · Montado do Barreiro,Bolo de mel,,Madeira
+🔭 Island Views · Madeira,7,Machico,Ponta de São Lourenço · Ribeiro Frio · Ponta do Rosto,Anona da Madeira,,Madeira
+🏛️ Culture & Heritage · Alentejo,1,Évora,Centro Histórico de Évora · Muralhas de Évora (da cerca romana e árabe) · Porta de Aviz · Convento dos Lóios,"Queijo de Évora, Açorda à Alentejana",,
+🏛️ Culture & Heritage · Alentejo,2,Alvito,"Solar de Água de Peixes · Igreja de Nossa Senhora da Assunção, matriz de Alvito · Castelo de Alvito · Igreja da Misericórdia de Alvito e Capela de Nossa Senhora das Candeias","Espargos com ovos, Pezinhos de Coentrada",💎 Hidden gem,
+🏛️ Culture & Heritage · Alentejo,3,Montemor-o-Novo,Igreja de São João Baptista (Nossa Senhora da Vila) · Anta Grande da Comenda da Igreja · Gruta do Escoural · Convento de Nossa Senhora da Saudação,"Borrego de Montemor-o-Novo, Presunto de Barrancos",,
+🏛️ Culture & Heritage · Alentejo,4,Castelo de Vide,Menir da Meada · Castelo de Castelo de Vide · Anta da Casa dos Galhardos · Anta das Tapadas de Pedro Álvaro,"Caspacho com carapaus fritos, Sopa de cação",,
+🏛️ Culture & Heritage · Alentejo,5,Portalegre,"Igreja de São Bernardo, compreendendo o túmulo de D. Jorge de Mello · Castelo de Alegrete · Dois claustros existentes no convento anexo à Igreja de São Bernardo · Castelo de Portalegre","Cereja de São Julião-Portalegre, Castanha Marvão-Portalegre",,
+🏛️ Culture & Heritage · Alentejo,6,Elvas,Cidade Fronteiriça e de Guarnição de Elvas e as suas Fortificações · Forte de Nossa Senhora da Graça · Forte de Santa Luzia · Igreja de São Domingos (Elvas),"Azeitonas de Conserva de Elvas e Campo Maior, Ameixa d´Elvas",,
+🏛️ Culture & Heritage · Alentejo,7,Estremoz,Villa lusitano-romana de Santa Vitória do Ameixial · Antiga Casa da Câmara · Claustro da Misericórdia de Estremoz · Castelo de Estremoz,"Chouriço de Carne de Estremoz e Borba, Chouriço grosso de Estremoz e Borba",,
+🏛️ Culture & Heritage · Lisboa,1,Lisboa,Mosteiro dos Jerónimos e Torre de Belém · Parque do Monteiro-Mor · Cordoaria Nacional · Faculdade de Direito da Universidade de Lisboa,Sardinha assada,,
+🏛️ Culture & Heritage · Lisboa,2,Lisboa,Igreja da Memória · Igreja do Sagrado Coração de Jesus · Jardim da Fundação Calouste Gulbenkian · Palácio Vale Flor,Arroz de marisco,🔁 More to see,
+🏛️ Culture & Heritage · Lisboa,3,Lisboa,Palácio dos Almadas · Palácio Calheta · Reservatório da Mãe d'Água das Amoreiras · Picadeiro Real de Belém,Pastel de Belém,🔁 More to see,
+🏛️ Culture & Heritage · Lisboa,4,Mafra,Palácio Nacional de Mafra e tapada · Igreja de Santo André (Mafra) · Forte de Milreu · Ponte antiga em Cheleiros,Pastel de bacalhau,,
+🏛️ Culture & Heritage · Lisboa,5,Sintra,Paisagem Cultural de Sintra · Parque de Monserrate · Castelo dos Mouros · Palácio Nacional de Queluz,Sopa da pedra,,
+🏛️ Culture & Heritage · Lisboa,6,Cascais,Forte Novo (troço de muralha) · Forte de Crismina · Forte de Nossa Senhora da Conceição (restos das muralhas) · Forte de Nossa Senhora da Guia,Amêijoas à Bulhão Pato,,
+🏛️ Culture & Heritage · Lisboa,7,Setúbal,"Palácio da Bacalhoa · Palácio e Quinta da Bacalhoa · Igreja do antigo Mosteiro de Jesus e claustro, incluindo a primitiva Casa do Capítulo · Igreja de São Julião de Setúbal",Bacalhau à Braz,,
+🏛️ Culture & Heritage · Norte,1,Porto,Centro Histórico do Porto · Cadeia da Relação · Parque de Serralves · Igreja do Carmo,"Tripas à moda do Porto, Alheira de Mirandela",,
+🏛️ Culture & Heritage · Norte,2,Marco de Canaveses,Igreja de Santo André · Igreja de Vila Boa do Bispo · Igreja de Santo Isidoro · Tongóbriga,"Caldo verde, Bacalhau à Gomes de Sá",💎 Hidden gem,
+🏛️ Culture & Heritage · Norte,3,Guimarães,Centro Histórico de Guimarães e Zona de Couros · Zona de Couros · Citânia de Sabroso · Citânia de Briteiros,"Pudim Abade de Priscos, Bôla de Lamego",,
+🏛️ Culture & Heritage · Norte,4,Arcos de Valdevez,Antas da Serra de Soajo · Paço da Giela · Santuário de Nossa Senhora da Peneda · Paisagem Cultural de Sistelo,"Sopa de castanhas, Arroz de lampreia",,
+🏛️ Culture & Heritage · Norte,5,Ponte de Lima,Ponte de Ponte de Lima · Igreja da Misericórdia de Ponte de Lima · Mosteiro de Refoios do Lima · Torres de São Paulo e da Cadeia e o pequeno pano de muralha existente entre as duas torres,"Bacalhau à Zé do Pipo, Alheira de Mirandela com grelos salteados",,
+🏛️ Culture & Heritage · Norte,6,Viana do Castelo,Paços Municipais de Viana do Castelo · Misericórdia de Viana do Castelo · Igreja de São Cláudio · Igreja de Santa Cruz,"Posta mirandesa, Azeite de Trás-os-Montes",,
+🏛️ Culture & Heritage · Norte,7,Braga,Santuário do Bom Jesus do Monte · Sete Fontes de S. Victor · Mosteiro de São Martinho de Tibães · Arco da Porta Nova,"Cordeiro Bragançano, Azeitona de conserva Negrinha de Freixo",,

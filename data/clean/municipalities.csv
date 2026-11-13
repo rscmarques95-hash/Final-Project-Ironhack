@@ -1,0 +1,309 @@
+municipality,municipality_code,region,stays_2025,n_beach,n_countryside,n_culture,n_nature,n_viewpoint,n_quality_markers
+Calheta (Madeira),3003101,Madeira,446548.0,1,0,6,2,28,7
+Câmara de Lobos,3003102,Madeira,237415.0,0,0,2,3,18,4
+Funchal,3003103,Madeira,6384904.0,5,0,68,2,52,50
+Machico,3003104,Madeira,426144.0,3,0,8,4,37,13
+Ponta do Sol,3003105,Madeira,109861.0,0,0,3,2,8,5
+Porto Moniz,3003106,Madeira,125208.0,1,0,6,4,47,6
+Ribeira Brava,3003107,Madeira,102518.0,1,0,3,1,10,4
+Santa Cruz,3003108,Madeira,1189413.0,2,0,8,3,22,11
+Santana,3003109,Madeira,167104.0,1,0,3,8,58,10
+São Vicente,3003110,Madeira,242374.0,0,0,1,7,0,8
+Porto Santo,3003201,Madeira,495264.0,3,0,3,1,16,5
+Évora,1870705,Alentejo,739187.0,0,0,101,0,2,88
+Montemor-o-Novo,1870706,Alentejo,60033.0,0,0,37,0,0,36
+Mora,1870707,Alentejo,4928.0,0,0,9,0,1,6
+Mourão,1870708,Alentejo,17509.0,1,0,5,0,1,4
+Portel,1870709,Alentejo,5712.0,3,0,10,0,2,10
+Redondo,1870710,Alentejo,15482.0,0,0,12,0,1,9
+Coruche,1851409,Alentejo,22783.0,0,0,7,1,1,3
+Golegã,1851412,Alentejo,14315.0,0,0,12,1,0,5
+Rio Maior,1851414,Alentejo,28707.0,0,0,6,0,1,4
+Salvaterra de Magos,1851415,Alentejo,4506.0,0,0,7,0,0,5
+Santarém,1851416,Alentejo,116701.0,0,0,50,4,5,44
+Alter do Chão,1861201,Alentejo,33219.0,0,0,12,0,0,12
+Arronches,1861202,Alentejo,12569.0,0,0,6,0,0,5
+Avis,1861203,Alentejo,19324.0,1,0,7,0,0,6
+Crato,1861206,Alentejo,15233.0,0,0,8,0,0,7
+Campo Maior,1861204,Alentejo,5456.0,0,0,11,0,0,5
+Castelo de Vide,1861205,Alentejo,41878.0,0,0,37,0,4,34
+Elvas,1861207,Alentejo,140826.0,0,0,55,0,1,45
+Fronteira,1861208,Alentejo,5851.0,0,0,12,0,0,8
+Gavião,1861209,Alentejo,9717.0,0,0,6,0,1,3
+Marvão,1861210,Alentejo,36073.0,0,0,12,0,1,7
+Monforte,1861211,Alentejo,8361.0,0,0,14,0,0,13
+Nisa,1861212,Alentejo,24160.0,0,0,25,1,6,22
+Ponte de Sor,1861213,Alentejo,75840.0,0,0,2,0,1,1
+Portalegre,1861214,Alentejo,47583.0,0,0,22,2,6,19
+Sousel,1861215,Alentejo,4385.0,0,0,5,0,0,4
+Arraiolos,1870702,Alentejo,27288.0,0,0,17,0,0,13
+Borba,1870703,Alentejo,2242.0,0,0,20,0,0,18
+Estremoz,1870704,Alentejo,78408.0,0,0,34,0,0,23
+Angra do Heroísmo,2004301,Açores,359847.0,6,0,44,11,23,53
+Vila da Praia da Vitória,2004302,Açores,92870.0,7,0,10,15,10,26
+Santa Cruz da Graciosa,2004401,Açores,18435.0,4,0,4,9,2,15
+Calheta (Açores),2004501,Açores,7058.0,0,0,0,0,0,0
+Velas,2004502,Açores,60632.0,0,0,7,22,16,24
+Lajes do Pico,2004601,Açores,22182.0,0,0,7,10,10,14
+Madalena,2004602,Açores,117183.0,0,0,3,6,1,7
+São Roque do Pico,2004603,Açores,34583.0,0,0,6,5,6,6
+Horta,2004701,Açores,207659.0,4,0,30,14,36,33
+Lajes das Flores,2004801,Açores,28581.0,0,0,1,0,0,1
+Santa Cruz das Flores,2004802,Açores,20995.0,0,0,9,15,39,18
+Corvo,2004901,Açores,4042.0,0,0,1,5,8,6
+Vila do Porto,2004101,Açores,45272.0,4,0,9,17,12,28
+Lagoa (Açores),2004201,Açores,152250.0,3,0,9,1,9,10
+Nordeste,2004202,Açores,31350.0,0,0,0,0,0,0
+Reguengos de Monsaraz,1870711,Alentejo,83561.0,1,0,25,0,1,19
+Vendas Novas,1870712,Alentejo,7047.0,0,0,4,0,0,2
+Viana do Alentejo,1870713,Alentejo,4927.0,0,0,9,0,0,8
+Vila Viçosa,1870714,Alentejo,48772.0,0,0,21,0,1,18
+Alandroal,1870701,Alentejo,19598.0,1,0,11,0,1,10
+Ponta Delgada,2004203,Açores,1560205.0,5,0,46,10,38,54
+Povoação,2004204,Açores,123483.0,3,0,11,6,35,11
+Ribeira Grande,2004205,Açores,145211.0,5,0,20,4,26,18
+Vila Franca do Campo,2004206,Açores,77421.0,4,0,11,4,7,12
+Peso da Régua,11D1708,Norte,81375.0,0,0,28,0,7,5
+Sabrosa,11D1710,Norte,34831.0,0,0,29,0,7,7
+Santa Marta de Penaguião,11D1711,Norte,9537.0,0,0,15,0,9,3
+Vila Real,11D1714,Norte,82111.0,0,0,51,1,15,16
+Maia,11A1306,Norte,336379.0,0,0,5,0,0,3
+Matosinhos,11A1308,Norte,605382.0,18,0,33,0,2,35
+Paredes,11A1310,Norte,69096.0,0,0,14,1,4,10
+Porto,11A1312,Norte,6611174.0,4,0,193,0,24,125
+Póvoa de Varzim,11A1313,Norte,293229.0,8,0,15,0,0,17
+Santo Tirso,11A1314,Norte,90022.0,0,0,16,0,2,13
+Armamar,11D1801,Norte,54902.0,0,0,12,0,6,4
+Lamego,11D1805,Norte,161880.0,0,0,34,0,4,18
+Moimenta da Beira,11D1807,Norte,5460.0,0,0,11,0,2,5
+Penedono,11D1812,Norte,1285.0,0,0,4,0,0,2
+São João da Pesqueira,11D1815,Norte,15454.0,0,0,9,0,7,4
+Carrazeda de Ansiães,11D0403,Norte,8054.0,0,0,18,0,5,10
+Freixo de Espada à Cinta,11D0404,Norte,20762.0,1,0,12,0,7,11
+Torre de Moncorvo,11D0409,Norte,16071.0,0,0,27,0,7,18
+Vila Nova de Foz Côa,11D0914,Norte,13183.0,0,0,42,0,9,32
+Sernancelhe,11D1818,Norte,12765.0,0,0,19,0,3,14
+Tabuaço,11D1819,Norte,30814.0,0,0,17,0,4,6
+Tarouca,11D1820,Norte,18453.0,0,0,13,0,4,8
+Alfândega da Fé,11E0401,Norte,14413.0,0,0,3,0,2,3
+Bragança,11E0402,Norte,140506.0,0,0,38,3,1,21
+Macedo de Cavaleiros,11E0405,Norte,20995.0,2,0,15,1,2,8
+Miranda do Douro,11E0406,Norte,30913.0,0,0,20,0,16,14
+Mirandela,11E0407,Norte,45934.0,0,0,20,0,6,12
+Mogadouro,11E0408,Norte,12975.0,0,0,18,0,12,11
+Vila Flor,11E0410,Norte,5495.0,0,0,8,0,3,4
+Vimioso,11E0411,Norte,4180.0,0,0,7,0,3,4
+Vinhais,11E0412,Norte,13374.0,0,0,16,0,4,8
+Tondela,16G1821,Centro,39884.0,0,0,23,0,4,12
+Vila Nova de Paiva,16G1822,Centro,2173.0,0,0,7,0,0,2
+Viseu,16G1823,Centro,282776.0,0,0,39,0,5,26
+Vouzela,16G1824,Centro,15904.0,0,0,11,0,0,9
+Castelo Branco,16H0502,Centro,109203.0,0,2,23,4,12,16
+Idanha-a-Nova,16H0505,Centro,42100.0,0,2,26,0,9,16
+Oleiros,16H0506,Centro,10389.0,1,1,2,0,2,4
+Penamacor,16H0507,Centro,19321.0,0,0,8,0,3,4
+Proença-a-Nova,16H0508,Centro,6323.0,0,1,0,0,0,1
+Vila Velha de Ródão,16H0511,Centro,16521.0,0,0,7,1,6,4
+Sertã,16I0509,Centro,65206.0,1,1,12,0,7,11
+Vila de Rei,16I0510,Centro,7562.0,2,1,3,0,2,3
+Abrantes,16I1401,Centro,45087.0,2,0,19,0,4,18
+Alcanena,16I1402,Centro,16821.0,1,0,6,0,3,4
+Amadora,1701115,Lisboa,141376.0,0,0,8,0,0,6
+Odivelas,1701116,Lisboa,7027.0,0,0,12,0,1,8
+Alcochete,1701502,Lisboa,86659.0,0,0,6,0,1,4
+Barreiro,1701504,Lisboa,15215.0,0,0,13,0,0,11
+Moita,1701506,Lisboa,0.0,0,0,5,0,0,3
+Montijo,1701507,Lisboa,192573.0,0,0,12,0,0,7
+Palmela,1701508,Lisboa,58773.0,0,0,13,0,4,8
+Odemira,1810211,Alentejo,391788.0,11,0,2,0,6,13
+Alcácer do Sal,1811501,Alentejo,100526.0,0,0,18,1,0,16
+Grândola,1811505,Alentejo,474377.0,10,0,17,0,3,19
+Santiago do Cacém,1811509,Alentejo,191104.0,3,0,15,1,1,14
+Sines,1811513,Alentejo,201622.0,4,0,11,0,2,13
+Aljustrel,1840201,Alentejo,14442.0,0,0,9,0,0,5
+Almodôvar,1840202,Alentejo,24021.0,0,0,10,0,1,7
+Fundão,16J0504,Centro,189952.0,0,3,22,1,5,19
+Almeida,16J0902,Centro,14048.0,0,2,18,0,1,13
+Celorico da Beira,16J0903,Centro,27828.0,0,1,11,0,2,7
+Figueira de Castelo Rodrigo,16J0904,Centro,10299.0,0,1,17,0,2,13
+Fornos de Algodres,16J0905,Centro,25340.0,0,0,14,0,1,6
+Gouveia,16J0906,Centro,38695.0,0,0,14,0,1,10
+Guarda,16J0907,Centro,98378.0,1,0,22,4,8,23
+Manteigas,16J0908,Centro,74635.0,0,0,1,0,4,1
+Mêda,16J0909,Centro,22868.0,0,1,12,0,2,8
+Pinhel,16J0910,Centro,4614.0,0,0,18,0,2,12
+Sabugal,16J0911,Centro,23794.0,0,1,20,0,1,12
+Seia,16J0912,Centro,100130.0,2,0,21,0,9,12
+Trancoso,16J0913,Centro,18104.0,0,1,19,0,1,12
+Seixal,1701510,Lisboa,71118.0,0,0,21,5,6,20
+Sesimbra,1701511,Lisboa,273281.0,4,0,14,4,3,16
+Setúbal,1701512,Lisboa,422143.0,2,0,39,2,7,30
+Cascais,1701105,Lisboa,1487073.0,7,0,64,3,2,58
+Lisboa,1701106,Lisboa,15964064.0,0,0,454,5,56,352
+Loures,1701107,Lisboa,347215.0,0,0,28,0,4,22
+Mafra,1701109,Lisboa,346187.0,5,0,37,0,4,31
+Oeiras,1701110,Lisboa,507896.0,2,0,29,0,6,26
+Sintra,1701111,Lisboa,744116.0,5,0,86,1,18,75
+Vila Franca de Xira,1701114,Lisboa,69576.0,0,0,27,0,3,12
+Almada,1701503,Lisboa,508337.0,9,0,24,2,10,20
+Arcos de Valdevez,1111601,Norte,96677.0,0,0,28,1,16,25
+Caminha,1111602,Norte,121059.0,4,0,22,0,8,24
+Melgaço,1111603,Norte,51769.0,0,0,31,1,1,23
+Monção,1111604,Norte,49546.0,0,0,16,0,3,13
+Paredes de Coura,1111605,Norte,9430.0,0,0,10,1,2,8
+Ponte da Barca,1111606,Norte,40083.0,0,0,14,1,4,11
+Ponte de Lima,1111607,Norte,137275.0,0,0,48,1,2,43
+Valença,1111608,Norte,71152.0,0,0,13,0,2,8
+Viana do Castelo,1111609,Norte,382544.0,11,0,42,2,6,44
+Vila Nova de Cerveira,1111610,Norte,71544.0,0,0,12,0,7,8
+Amares,1120301,Norte,47457.0,0,0,16,0,1,13
+Barcelos,1120302,Norte,78490.0,0,0,30,0,0,24
+Braga,1120303,Norte,689063.0,2,0,87,1,6,66
+Esposende,1120306,Norte,183982.0,4,0,19,0,3,15
+Terras de Bouro,1120310,Norte,139982.0,0,0,9,1,20,5
+Vila Verde,1120313,Norte,44247.0,1,0,15,0,0,9
+Cabeceiras de Basto,1190304,Norte,15951.0,0,0,16,0,4,9
+Fafe,1190307,Norte,30570.0,1,0,10,0,1,7
+Nazaré,16B1011,Centro,251168.0,2,0,12,0,2,11
+Óbidos,16B1012,Centro,302395.0,2,0,15,0,3,12
+Peniche,16B1014,Centro,244134.0,7,0,20,1,10,21
+Arruda dos Vinhos,16B1102,Centro,7174.0,0,0,3,0,2,2
+Alenquer,16B1101,Centro,27864.0,0,0,23,0,1,15
+Cadaval,16B1104,Centro,9748.0,0,0,4,0,1,3
+Lourinhã,16B1108,Centro,84847.0,5,0,8,0,3,10
+Sobral de Monte Agraço,16B1112,Centro,1270.0,0,0,3,1,2,3
+Torres Vedras,16B1113,Centro,291021.0,11,0,36,0,6,41
+Águeda,16D0101,Centro,57253.0,0,0,15,0,5,6
+Albergaria-a-Velha,16D0102,Centro,21095.0,0,0,5,0,0,2
+Anadia,16D0103,Centro,79981.0,0,0,17,0,0,9
+Aveiro,16D0105,Centro,452112.0,1,0,27,1,2,19
+Estarreja,16D0108,Centro,22850.0,0,0,8,0,0,3
+Ílhavo,16D0110,Centro,109254.0,3,0,11,0,2,8
+Murtosa,16D0112,Centro,18631.0,3,0,2,0,0,3
+Oliveira do Bairro,16D0114,Centro,12585.0,0,0,0,0,0,0
+Ovar,16D0115,Centro,110923.0,3,0,10,0,5,7
+Sever do Vouga,16D0117,Centro,16143.0,1,0,7,0,2,5
+Vagos,16D0118,Centro,18105.0,3,0,0,0,0,3
+Mealhada,16E0111,Centro,114766.0,0,0,8,0,2,5
+Arganil,16E0601,Centro,25604.0,1,3,20,1,11,14
+Cantanhede,16E0602,Centro,38786.0,4,0,13,0,4,9
+Coimbra,16E0603,Centro,699087.0,2,0,81,1,5,63
+Condeixa-a-Nova,16E0604,Centro,20569.0,0,0,14,0,0,9
+Figueira da Foz,16E0605,Centro,382699.0,10,0,28,1,5,32
+Góis,16E0606,Centro,12081.0,1,4,9,0,1,12
+Lousã,16E0607,Centro,44094.0,0,5,11,0,7,11
+Mira,16E0608,Centro,75357.0,2,0,4,0,0,3
+Miranda do Corvo,16E0609,Centro,33843.0,0,1,7,0,0,3
+Montemor-o-Velho,16E0610,Centro,10166.0,1,0,18,1,1,17
+Oliveira do Hospital,16E0611,Centro,40098.0,0,1,24,0,8,15
+Pampilhosa da Serra,16E0612,Centro,5735.0,0,2,0,0,0,2
+Penacova,16E0613,Centro,17169.0,2,0,7,0,5,5
+Penela,16E0614,Centro,22337.0,0,1,6,0,4,5
+Soure,16E0615,Centro,19012.0,0,0,7,0,0,3
+Tábua,16E0616,Centro,46110.0,1,0,11,0,3,6
+Vila Nova de Poiares,16E0617,Centro,3744.0,0,0,1,0,2,1
+Mortágua,16E1808,Centro,66953.0,0,0,2,0,0,0
+Castanheira de Pêra,16F1007,Centro,7717.0,0,0,4,0,0,2
+Figueiró dos Vinhos,16F1008,Centro,12351.0,0,1,6,0,2,4
+Leiria,16F1009,Centro,364441.0,2,0,28,2,5,18
+Marinha Grande,16F1010,Centro,131193.0,2,0,5,0,0,4
+Pedrógão Grande,16F1013,Centro,1984.0,0,1,4,0,1,4
+Pombal,16F1015,Centro,62372.0,1,0,17,0,5,12
+Porto de Mós,16F1016,Centro,37005.0,0,0,9,0,3,5
+Alvaiázere,16F1002,Centro,5835.0,0,0,4,0,0,0
+Constância,16I1408,Centro,9189.0,0,0,11,0,3,4
+Entroncamento,16I1410,Centro,19940.0,0,0,0,0,0,0
+Ferreira do Zêzere,16I1411,Centro,26922.0,0,0,9,0,3,7
+Mação,16I1413,Centro,3085.0,1,0,11,0,7,8
+Sardoal,16I1417,Centro,4464.0,0,0,6,0,3,5
+Tomar,16I1418,Centro,171646.0,0,0,38,0,2,26
+Torres Novas,16I1419,Centro,41977.0,0,0,11,2,0,10
+Vila Nova da Barquinha,16I1420,Centro,9630.0,0,0,7,0,3,4
+Ourém,16I1421,Centro,1282584.0,1,0,20,1,2,8
+Belmonte,16J0501,Centro,30178.0,0,1,11,0,0,6
+Covilhã,16J0503,Centro,349022.0,0,1,28,0,7,22
+Ansião,16F1003,Centro,10020.0,0,0,7,0,3,2
+Batalha,16F1004,Centro,66678.0,0,0,13,0,0,11
+Aguiar da Beira,16G0901,Centro,9320.0,0,0,9,0,0,6
+Carregal do Sal,16G1802,Centro,10298.0,0,0,9,0,3,6
+Castro Daire,16G1803,Centro,16581.0,0,0,15,0,1,8
+Mangualde,16G1806,Centro,28799.0,0,0,21,0,0,19
+Nelas,16G1809,Centro,69990.0,0,0,11,0,1,7
+Oliveira de Frades,16G1810,Centro,5874.0,0,0,6,0,0,4
+Penalva do Castelo,16G1811,Centro,13520.0,0,0,6,0,0,5
+Santa Comba Dão,16G1814,Centro,2430.0,0,0,7,0,4,1
+São Pedro do Sul,16G1816,Centro,152540.0,0,0,13,0,2,12
+Sátão,16G1817,Centro,4215.0,0,0,16,0,1,10
+Mondim de Basto,1191705,Norte,55177.0,0,0,6,1,10,5
+Guimarães,1190308,Norte,397905.0,0,0,58,0,8,49
+Póvoa de Lanhoso,1190309,Norte,28016.0,0,0,14,0,2,12
+Vieira do Minho,1190311,Norte,72256.0,0,0,9,0,10,3
+Vila Nova de Famalicão,1190312,Norte,71790.0,0,0,33,0,1,19
+Vizela,1190314,Norte,26741.0,0,0,2,0,0,2
+Arouca,11A0104,Norte,41649.0,0,0,17,1,5,10
+São João da Madeira,11A0116,Norte,52488.0,0,0,3,0,0,1
+Alvito,1840203,Alentejo,8073.0,0,0,19,0,0,16
+Barrancos,1840204,Alentejo,3597.0,0,0,1,0,0,1
+Beja,1840205,Alentejo,249464.0,1,0,24,0,0,15
+Castro Verde,1840206,Alentejo,21302.0,0,0,11,0,0,8
+Cuba,1840207,Alentejo,7339.0,1,0,11,0,0,8
+Ferreira do Alentejo,1840208,Alentejo,28310.0,0,0,6,0,0,2
+Mértola,1840209,Alentejo,55987.0,1,0,15,1,1,7
+Moura,1840210,Alentejo,30942.0,1,0,28,0,0,23
+Ourique,1840212,Alentejo,13912.0,0,0,3,0,1,3
+Serpa,1840213,Alentejo,32873.0,0,0,14,0,3,9
+Vidigueira,1840214,Alentejo,20613.0,0,0,11,0,1,6
+Amarante,11C1301,Norte,92341.0,0,0,26,1,5,23
+Baião,11C1302,Norte,86949.0,0,0,15,1,4,12
+Felgueiras,11C1303,Norte,30653.0,0,0,15,0,2,12
+Lousada,11C1305,Norte,38070.0,0,0,7,0,0,5
+Marco de Canaveses,11C1307,Norte,27592.0,0,0,27,1,0,23
+Paços de Ferreira,11C1309,Norte,26828.0,0,0,7,0,0,4
+Penafiel,11C1311,Norte,87969.0,0,0,24,0,2,22
+Cinfães,11C1804,Norte,23595.0,0,0,8,0,3,5
+Resende,11C1813,Norte,25599.0,0,0,13,0,3,11
+Alijó,11D1701,Norte,64380.0,0,0,13,0,6,7
+Mesão Frio,11D1704,Norte,32788.0,0,0,14,0,7,4
+Murça,11D1707,Norte,4142.0,0,0,5,0,3,3
+Albufeira,1500801,Algarve,7450860.0,24,0,4,0,4,26
+Alcoutim,1500802,Algarve,14014.0,0,0,11,0,4,7
+Aljezur,1500803,Algarve,178738.0,4,0,6,1,3,7
+Castro Marim,1500804,Algarve,165553.0,5,0,5,1,1,8
+Faro,1500805,Algarve,752782.0,4,0,39,2,3,37
+Lagoa (Algarve),1500806,Algarve,1750247.0,6,0,5,0,2,10
+Lagos,1500807,Algarve,1805905.0,3,0,18,1,6,17
+Loulé,1500808,Algarve,2865348.0,10,0,15,1,3,21
+Monchique,1500809,Algarve,112828.0,0,0,4,0,3,2
+Olhão,1500810,Algarve,272339.0,4,0,12,0,1,13
+Portimão,1500811,Algarve,2796622.0,6,0,14,0,0,18
+São Brás de Alportel,1500812,Algarve,15992.0,0,0,5,0,3,1
+Silves,1500813,Algarve,287246.0,2,0,24,0,7,19
+Tavira,1500814,Algarve,794963.0,4,0,22,0,2,20
+Vila do Bispo,1500815,Algarve,477368.0,10,0,14,0,7,20
+Vila Real de Santo António,1500816,Algarve,1041600.0,4,0,4,0,1,7
+Alcobaça,16B1001,Centro,141931.0,2,0,23,0,1,13
+Bombarral,16B1005,Centro,19847.0,0,0,8,0,1,7
+Caldas da Rainha,16B1006,Centro,215324.0,2,0,21,0,1,14
+Azambuja,1851103,Alentejo,14296.0,0,0,9,0,1,5
+Almeirim,1851403,Alentejo,24050.0,0,0,1,0,0,1
+Alpiarça,1851404,Alentejo,2659.0,0,0,4,0,0,3
+Benavente,1851405,Alentejo,33331.0,0,0,5,0,1,1
+Cartaxo,1851406,Alentejo,11882.0,0,0,5,0,1,2
+Chamusca,1851407,Alentejo,3934.0,0,0,0,0,0,0
+Espinho,11A0107,Norte,167444.0,3,0,1,0,0,3
+Santa Maria da Feira,11A0109,Norte,114426.0,0,0,20,0,1,15
+Oliveira de Azeméis,11A0113,Norte,38935.0,0,0,19,0,5,9
+Vale de Cambra,11A0119,Norte,12627.0,0,0,5,0,2,1
+Gondomar,11A1304,Norte,101891.0,0,0,10,0,3,6
+Valongo,11A1315,Norte,93795.0,0,0,7,0,4,1
+Vila do Conde,11A1316,Norte,139036.0,5,0,34,1,3,29
+Vila Nova de Gaia,11A1317,Norte,1192707.0,19,0,31,1,5,40
+Trofa,11A1318,Norte,13236.0,0,0,3,0,0,3
+Chaves,11B1703,Norte,233481.0,0,0,34,0,6,23
+Montalegre,11B1706,Norte,26487.0,0,0,15,1,4,11
+Ribeira de Pena,11B1709,Norte,36047.0,0,0,7,0,3,3
+Valpaços,11B1712,Norte,12842.0,0,0,17,0,2,13
+Vila Pouca de Aguiar,11B1713,Norte,36433.0,0,0,16,0,1,13
+Boticas,11B1702,Norte,18348.0,0,0,10,0,2,7
+Castelo de Paiva,11C0106,Norte,39343.0,0,0,9,0,7,6
+Celorico de Basto,11C0305,Norte,38536.0,0,0,10,0,4,5
