@@ -1,0 +1,309 @@
+municipality,region,package,latitude,longitude,stays_2025,hidden_gem,n_quality_markers
+Calheta (Madeira),Madeira,Nature Escape,32.733333333,-17.166666666,446548.0,False,7
+Câmara de Lobos,Madeira,Nature Escape,32.65,-16.966666666,237415.0,False,4
+Funchal,Madeira,Beach & Relax,32.65,-16.916666666,6384904.0,False,51
+Machico,Madeira,Nature Escape,32.716666666,-16.766666666,426144.0,False,13
+Ponta do Sol,Madeira,Off the Beaten Track,32.681111111,-17.104166666,109861.0,False,5
+Porto Moniz,Madeira,Nature Escape,32.866666666,-17.166666666,125208.0,False,6
+Ribeira Brava,Madeira,Off the Beaten Track,32.672222222,-17.063888888,102518.0,False,4
+Santa Cruz,Madeira,Nature Escape,32.67495,-16.83088,1189413.0,False,11
+Santana,Madeira,Nature Escape,32.8,-16.866666666,167104.0,False,11
+São Vicente,Madeira,Off the Beaten Track,32.796666666,-17.043333333,242374.0,False,8
+Porto Santo,Madeira,Nature Escape,33.061944444,-16.356388888,495264.0,False,5
+Évora,Alentejo,City & Culture,38.5725,-7.907222222,739187.0,False,90
+Montemor-o-Novo,Alentejo,City & Culture,38.65,-8.216666666,60033.0,False,36
+Mora,Alentejo,City & Culture,38.933333333,-8.15,4928.0,False,7
+Mourão,Alentejo,Rivers & Inland,38.333333333,-7.366666666,17509.0,False,4
+Portel,Alentejo,Rivers & Inland,38.3,-7.7,5712.0,False,10
+Redondo,Alentejo,City & Culture,38.646388888,-7.546388888,15482.0,False,10
+Coruche,Alentejo,Off the Beaten Track,38.95,-8.533333333,22783.0,False,3
+Golegã,Alentejo,City & Culture,39.4,-8.483333333,14315.0,False,6
+Rio Maior,Alentejo,Off the Beaten Track,39.333333333,-8.933333333,28707.0,False,5
+Salvaterra de Magos,Alentejo,Off the Beaten Track,39.016666666,-8.783333333,4506.0,False,5
+Santarém,Alentejo,City & Culture,39.239166666,-8.686944444,116701.0,False,46
+Alter do Chão,Alentejo,Off the Beaten Track,39.2,-7.666666666,33219.0,False,12
+Arronches,Alentejo,Off the Beaten Track,39.116666666,-7.283333333,12569.0,False,5
+Avis,Alentejo,Rivers & Inland,39.05,-7.883333333,19324.0,False,7
+Crato,Alentejo,Off the Beaten Track,39.283333333,-7.65,15233.0,False,7
+Campo Maior,Alentejo,City & Culture,39.015,-7.068333333,5456.0,False,6
+Castelo de Vide,Alentejo,City & Culture,39.416666666,-7.45,41878.0,False,35
+Elvas,Alentejo,City & Culture,38.88,-7.162777777,140826.0,False,47
+Fronteira,Alentejo,Off the Beaten Track,39.05,-7.65,5851.0,False,11
+Gavião,Alentejo,Off the Beaten Track,39.466666666,-7.933333333,9717.0,False,3
+Marvão,Alentejo,City & Culture,39.394166666,-7.377222222,36073.0,False,9
+Monforte,Alentejo,Off the Beaten Track,39.05,-7.433333333,8361.0,False,13
+Nisa,Alentejo,City & Culture,39.516666666,-7.65,24160.0,True,24
+Ponte de Sor,Alentejo,Off the Beaten Track,39.25,-8.016666666,75840.0,False,1
+Portalegre,Alentejo,City & Culture,39.316666666,-7.416666666,47583.0,False,20
+Sousel,Alentejo,Off the Beaten Track,38.953222222,-7.675722222,4385.0,False,5
+Arraiolos,Alentejo,City & Culture,38.722916666,-7.984333333,27288.0,False,14
+Borba,Alentejo,Off the Beaten Track,38.8,-7.45,2242.0,True,19
+Estremoz,Alentejo,City & Culture,38.8422,-7.588083333,78408.0,False,28
+Angra do Heroísmo,Açores,Nature Escape,38.655833333,-27.215277777,359847.0,False,53
+Vila da Praia da Vitória,Açores,Nature Escape,38.733333333,-27.066666666,92870.0,False,26
+Santa Cruz da Graciosa,Açores,Nature Escape,39.083333333,-28.016666666,18435.0,False,15
+Calheta (Açores),Açores,Off the Beaten Track,38.6,-28.016666666,7058.0,False,0
+Velas,Açores,Nature Escape,38.681722222,-28.207944444,60632.0,False,24
+Lajes do Pico,Açores,Nature Escape,38.4,-28.25,22182.0,False,14
+Madalena,Açores,Nature Escape,38.53559,-28.52343,117183.0,False,7
+São Roque do Pico,Açores,Nature Escape,38.516666666,-28.316666666,34583.0,False,6
+Horta,Açores,Nature Escape,38.533333333,-28.633333333,207659.0,False,49
+Lajes das Flores,Açores,Off the Beaten Track,39.383333333,-31.166666666,28581.0,False,1
+Santa Cruz das Flores,Açores,Nature Escape,39.45,-31.116666666,20995.0,False,17
+Corvo,Açores,Nature Escape,39.673055555,-31.1125,4042.0,False,6
+Vila do Porto,Açores,Nature Escape,36.945,-25.145,45272.0,False,27
+Lagoa (Açores),Açores,Beach & Relax,37.75,-25.583333333,152250.0,False,10
+Nordeste,Açores,Off the Beaten Track,37.833333333,-25.15,31350.0,False,0
+Reguengos de Monsaraz,Alentejo,Rivers & Inland,38.416666666,-7.533333333,83561.0,False,20
+Vendas Novas,Alentejo,Off the Beaten Track,38.678026,-8.455475,7047.0,False,2
+Viana do Alentejo,Alentejo,Off the Beaten Track,38.334166666,-8.001361111,4927.0,False,9
+Vila Viçosa,Alentejo,City & Culture,38.75,-7.433333333,48772.0,False,20
+Alandroal,Alentejo,Rivers & Inland,38.7,-7.4,19598.0,False,12
+Ponta Delgada,Açores,Nature Escape,37.74,-25.67,1560205.0,False,54
+Povoação,Açores,Nature Escape,37.746,-25.245,123483.0,False,11
+Ribeira Grande,Açores,Nature Escape,37.816666666,-25.516666666,145211.0,False,18
+Vila Franca do Campo,Açores,Nature Escape,37.716666666,-25.433333333,77421.0,False,12
+Peso da Régua,Norte,City & Culture,41.163176,-7.789014,81375.0,False,26
+Sabrosa,Norte,Off the Beaten Track,41.265101944,-7.575051666,34831.0,True,25
+Santa Marta de Penaguião,Norte,Off the Beaten Track,41.2,-7.783333333,9537.0,False,14
+Vila Real,Norte,City & Culture,41.295277777,-7.746111111,82111.0,False,39
+Maia,Norte,Off the Beaten Track,41.233333333,-8.616666666,336379.0,False,3
+Matosinhos,Norte,Beach & Relax,41.186666666,-8.684444444,605382.0,False,37
+Paredes,Norte,City & Culture,41.2,-8.333333333,69096.0,False,13
+Porto,Norte,Beach & Relax,41.15,-8.610833333,6611174.0,False,126
+Póvoa de Varzim,Norte,Beach & Relax,41.39158,-8.75713,293229.0,False,19
+Santo Tirso,Norte,City & Culture,41.3425,-8.4775,90022.0,False,13
+Armamar,Norte,Off the Beaten Track,41.116666666,-7.683333333,54902.0,False,11
+Lamego,Norte,City & Culture,41.098330555,-7.81,161880.0,False,31
+Moimenta da Beira,Norte,Off the Beaten Track,40.981944444,-7.615833333,5460.0,False,10
+Penedono,Norte,Off the Beaten Track,40.983333333,-7.383333333,1285.0,False,4
+São João da Pesqueira,Norte,City & Culture,41.133333333,-7.4,15454.0,False,5
+Carrazeda de Ansiães,Norte,City & Culture,41.25,-7.3,8054.0,False,14
+Freixo de Espada à Cinta,Norte,Rivers & Inland,41.083333333,-6.8,20762.0,False,12
+Torre de Moncorvo,Norte,City & Culture,41.17922,-7.0358,16071.0,True,19
+Vila Nova de Foz Côa,Norte,City & Culture,41.083333333,-7.133333333,13183.0,True,39
+Sernancelhe,Norte,Off the Beaten Track,40.9,-7.483333333,12765.0,False,18
+Tabuaço,Norte,Off the Beaten Track,41.116666666,-7.566666666,30814.0,False,16
+Tarouca,Norte,City & Culture,41.016666666,-7.783333333,18453.0,False,12
+Alfândega da Fé,Norte,Off the Beaten Track,41.35,-6.966666666,14413.0,False,3
+Bragança,Norte,City & Culture,41.8,-6.75,140506.0,False,31
+Macedo de Cavaleiros,Norte,Rivers & Inland,41.533333333,-6.95,20995.0,False,12
+Miranda do Douro,Norte,City & Culture,41.5,-6.266666666,30913.0,False,15
+Mirandela,Norte,City & Culture,41.483333333,-7.183333333,45934.0,False,17
+Mogadouro,Norte,City & Culture,41.34193,-6.71934,12975.0,False,16
+Vila Flor,Norte,Off the Beaten Track,41.3,-7.15,5495.0,False,7
+Vimioso,Norte,Off the Beaten Track,41.566666666,-6.516666666,4180.0,False,6
+Vinhais,Norte,City & Culture,41.816666666,-7.0,13374.0,False,12
+Tondela,Centro,City & Culture,40.516666666,-8.083333333,39884.0,False,18
+Vila Nova de Paiva,Centro,Off the Beaten Track,40.85,-7.733333333,2173.0,False,5
+Viseu,Centro,City & Culture,40.6575,-7.913888888,282776.0,False,29
+Vouzela,Centro,Off the Beaten Track,40.7,-8.116666666,15904.0,False,10
+Castelo Branco,Centro,Countryside,39.822777777,-7.493055555,109203.0,False,19
+Idanha-a-Nova,Centro,Countryside,39.916666666,-7.233333333,42100.0,False,24
+Oleiros,Centro,Countryside,39.916666666,-7.916666666,10389.0,False,4
+Penamacor,Centro,Off the Beaten Track,40.166666666,-7.166666666,19321.0,False,6
+Proença-a-Nova,Centro,Countryside,39.75,-7.916666666,6323.0,False,1
+Vila Velha de Ródão,Centro,Off the Beaten Track,39.65,-7.666666666,16521.0,False,5
+Sertã,Centro,Countryside,39.8008,-8.100280555,65206.0,False,13
+Vila de Rei,Centro,Rivers & Inland,39.683333333,-8.15,7562.0,False,3
+Abrantes,Centro,Rivers & Inland,39.464444444,-8.197819444,45087.0,False,18
+Alcanena,Centro,Rivers & Inland,39.466666666,-8.666666666,16821.0,False,4
+Amadora,Lisboa,Off the Beaten Track,38.75,-9.233333333,141376.0,False,6
+Odivelas,Lisboa,City & Culture,38.8,-9.183333333,7027.0,False,8
+Alcochete,Lisboa,Off the Beaten Track,38.755277777,-8.960833333,86659.0,False,4
+Barreiro,Lisboa,Off the Beaten Track,38.660888888,-9.073277777,15215.0,False,11
+Moita,Lisboa,Off the Beaten Track,38.65,-8.983333333,0.0,False,4
+Montijo,Lisboa,Off the Beaten Track,38.704888888,-8.975666666,192573.0,False,7
+Palmela,Lisboa,City & Culture,38.567489,-8.89908,58773.0,False,9
+Odemira,Alentejo,Rivers & Inland,37.583333333,-8.633333333,391788.0,False,13
+Alcácer do Sal,Alentejo,City & Culture,38.3725,-8.513333333,100526.0,False,16
+Grândola,Alentejo,Beach & Relax,38.176809,-8.568896,474377.0,False,19
+Santiago do Cacém,Alentejo,Beach & Relax,38.0,-8.683333333,191104.0,False,16
+Sines,Alentejo,Beach & Relax,37.954722222,-8.864166666,201622.0,False,13
+Aljustrel,Alentejo,Off the Beaten Track,37.878467,-8.161398,14442.0,False,6
+Almodôvar,Alentejo,Off the Beaten Track,37.511388888,-8.060277777,24021.0,False,7
+Fundão,Centro,Countryside,40.133333333,-7.5,189952.0,False,23
+Almeida,Centro,Countryside,40.725916666,-6.905583333,14048.0,False,16
+Celorico da Beira,Centro,Countryside,40.633333333,-7.4,27828.0,False,10
+Figueira de Castelo Rodrigo,Centro,Countryside,40.9,-6.966666666,10299.0,False,15
+Fornos de Algodres,Centro,Off the Beaten Track,40.616666666,-7.533333333,25340.0,False,12
+Gouveia,Centro,Off the Beaten Track,40.5,-7.6,38695.0,False,12
+Guarda,Centro,Rivers & Inland,40.536388888,-7.268333333,98378.0,False,25
+Manteigas,Centro,Off the Beaten Track,40.4,-7.533333333,74635.0,False,1
+Mêda,Centro,Countryside,40.966666666,-7.266666666,22868.0,False,13
+Pinhel,Centro,City & Culture,40.783333333,-7.066666666,4614.0,False,15
+Sabugal,Centro,Countryside,40.35,-7.083333333,23794.0,True,19
+Seia,Centro,Rivers & Inland,40.42203,-7.70245,100130.0,False,17
+Trancoso,Centro,Countryside,40.7833,-7.35,18104.0,False,15
+Seixal,Lisboa,Nature Escape,38.6422246,-9.1072662,71118.0,False,20
+Sesimbra,Lisboa,Nature Escape,38.443722222,-9.099638888,273281.0,False,17
+Setúbal,Lisboa,Beach & Relax,38.524305555,-8.892611111,422143.0,False,33
+Cascais,Lisboa,Beach & Relax,38.696944444,-9.420555555,1487073.0,False,58
+Lisboa,Lisboa,City & Culture,38.72635,-9.14843,15964064.0,False,355
+Loures,Lisboa,City & Culture,38.833333333,-9.166666666,347215.0,False,23
+Mafra,Lisboa,Beach & Relax,38.933333333,-9.333333333,346187.0,False,35
+Oeiras,Lisboa,Beach & Relax,38.697044444,-9.301652777,507896.0,False,27
+Sintra,Lisboa,Beach & Relax,38.797361111,-9.390416666,744116.0,False,76
+Vila Franca de Xira,Lisboa,City & Culture,38.95,-8.983333333,69576.0,False,19
+Almada,Lisboa,Beach & Relax,38.68027778,-9.15833333,508337.0,False,21
+Arcos de Valdevez,Norte,City & Culture,41.85,-8.416666666,96677.0,False,27
+Caminha,Norte,Rivers & Inland,41.833333333,-8.833333333,121059.0,False,25
+Melgaço,Norte,City & Culture,42.116666666,-8.266666666,51769.0,False,26
+Monção,Norte,City & Culture,42.073333333,-8.48,49546.0,False,13
+Paredes de Coura,Norte,City & Culture,41.912683333,-8.562180555,9430.0,False,10
+Ponte da Barca,Norte,City & Culture,41.8,-8.416666666,40083.0,False,12
+Ponte de Lima,Norte,City & Culture,41.766666666,-8.583333333,137275.0,False,47
+Valença,Norte,City & Culture,42.02821,-8.63388,71152.0,False,10
+Viana do Castelo,Norte,Beach & Relax,41.7,-8.833333333,382544.0,False,47
+Vila Nova de Cerveira,Norte,City & Culture,41.933333333,-8.733333333,71544.0,False,9
+Amares,Norte,City & Culture,41.633333333,-8.35,47457.0,False,14
+Barcelos,Norte,City & Culture,41.533333333,-8.616666666,78490.0,False,25
+Braga,Norte,Rivers & Inland,41.533333333,-8.416666666,689063.0,False,70
+Esposende,Norte,Beach & Relax,41.533333333,-8.783333333,183982.0,False,16
+Terras de Bouro,Norte,City & Culture,41.716666666,-8.3,139982.0,False,8
+Vila Verde,Norte,Rivers & Inland,41.648369985,-8.436684943,44247.0,False,13
+Cabeceiras de Basto,Norte,City & Culture,41.516666666,-8.0,15951.0,False,11
+Fafe,Norte,Rivers & Inland,41.45,-8.166666666,30570.0,False,7
+Nazaré,Centro,Off the Beaten Track,39.6,-9.066666666,251168.0,False,12
+Óbidos,Centro,Beach & Relax,39.361952,-9.157131,302395.0,False,13
+Peniche,Centro,Beach & Relax,39.362833333,-9.388722222,244134.0,False,23
+Arruda dos Vinhos,Centro,Off the Beaten Track,38.983333333,-9.066666666,7174.0,False,2
+Alenquer,Centro,City & Culture,39.05,-9.016666666,27864.0,True,21
+Cadaval,Centro,Off the Beaten Track,39.24621,-9.06738,9748.0,False,3
+Lourinhã,Centro,Beach & Relax,39.25,-9.316666666,84847.0,False,10
+Sobral de Monte Agraço,Centro,Off the Beaten Track,39.01666667,-9.15,1270.0,False,3
+Torres Vedras,Centro,Beach & Relax,39.083333333,-9.266666666,291021.0,False,41
+Águeda,Centro,City & Culture,40.580519444,-8.441666666,57253.0,False,10
+Albergaria-a-Velha,Centro,Off the Beaten Track,40.693611111,-8.480555555,21095.0,False,4
+Anadia,Centro,Off the Beaten Track,40.433333333,-8.433333333,79981.0,False,10
+Aveiro,Centro,City & Culture,40.638888888,-8.655277777,452112.0,False,21
+Estarreja,Centro,Off the Beaten Track,40.75,-8.566666666,22850.0,False,3
+Ílhavo,Centro,Beach & Relax,40.6,-8.666666666,109254.0,False,8
+Murtosa,Centro,Off the Beaten Track,40.736944444,-8.638611111,18631.0,False,3
+Oliveira do Bairro,Centro,Off the Beaten Track,40.516666666,-8.5,12585.0,False,0
+Ovar,Centro,Beach & Relax,40.866666666,-8.633333333,110923.0,False,7
+Sever do Vouga,Centro,Rivers & Inland,40.716666666,-8.366666666,16143.0,False,7
+Vagos,Centro,Off the Beaten Track,40.55,-8.666666666,18105.0,False,3
+Mealhada,Centro,City & Culture,40.383333333,-8.45,114766.0,False,5
+Arganil,Centro,Countryside,40.216666666,-8.05,25604.0,False,17
+Cantanhede,Centro,Rivers & Inland,40.34624,-8.59407,38786.0,False,10
+Coimbra,Centro,Rivers & Inland,40.211111111,-8.428888888,699087.0,False,65
+Condeixa-a-Nova,Centro,City & Culture,40.116666666,-8.5,20569.0,False,10
+Figueira da Foz,Centro,Beach & Relax,40.15085,-8.86179,382699.0,False,36
+Góis,Centro,Countryside,40.15,-8.116666666,12081.0,False,13
+Lousã,Centro,Countryside,40.112527777,-8.246888888,44094.0,False,13
+Mira,Centro,Off the Beaten Track,40.428472222,-8.73625,75357.0,False,4
+Miranda do Corvo,Centro,Countryside,40.1,-8.333333333,33843.0,False,4
+Montemor-o-Velho,Centro,Rivers & Inland,40.166666666,-8.683333333,10166.0,False,18
+Oliveira do Hospital,Centro,Countryside,40.366666666,-7.866666666,40098.0,False,23
+Pampilhosa da Serra,Centro,Countryside,40.05,-7.95,5735.0,False,2
+Penacova,Centro,Rivers & Inland,40.27055556,-8.28333333,17169.0,False,7
+Penela,Centro,Countryside,40.033333333,-8.383333333,22337.0,False,7
+Soure,Centro,Off the Beaten Track,40.05,-8.633333333,19012.0,False,5
+Tábua,Centro,Rivers & Inland,40.366666666,-8.033333333,46110.0,False,11
+Vila Nova de Poiares,Centro,Off the Beaten Track,40.216666666,-8.25,3744.0,False,1
+Mortágua,Centro,Off the Beaten Track,40.383333333,-8.216666666,66953.0,False,1
+Castanheira de Pêra,Centro,Off the Beaten Track,40.0,-8.216666666,7717.0,False,2
+Figueiró dos Vinhos,Centro,Countryside,39.9,-8.266666666,12351.0,False,5
+Leiria,Centro,Beach & Relax,39.743055555,-8.806944444,364441.0,False,19
+Marinha Grande,Centro,Off the Beaten Track,39.75,-8.933333333,131193.0,False,4
+Pedrógão Grande,Centro,Countryside,39.916666666,-8.15,1984.0,False,5
+Pombal,Centro,City & Culture,39.916111111,-8.628055555,62372.0,False,15
+Porto de Mós,Centro,City & Culture,39.60166667,-8.8175,37005.0,False,6
+Alvaiázere,Centro,Off the Beaten Track,39.833333333,-8.383333333,5835.0,False,3
+Constância,Centro,Off the Beaten Track,39.483333333,-8.333333333,9189.0,False,5
+Entroncamento,Centro,Off the Beaten Track,39.466666666,-8.466666666,19940.0,False,0
+Ferreira do Zêzere,Centro,Off the Beaten Track,39.7,-8.283333333,26922.0,False,9
+Mação,Centro,Rivers & Inland,39.55,-8.0,3085.0,False,9
+Sardoal,Centro,Off the Beaten Track,39.533333333,-8.166666666,4464.0,False,6
+Tomar,Centro,City & Culture,39.6,-8.416666666,171646.0,False,28
+Torres Novas,Centro,Off the Beaten Track,39.483333333,-8.533333333,41977.0,False,10
+Vila Nova da Barquinha,Centro,City & Culture,39.458132834,-8.431094609,9630.0,False,4
+Ourém,Centro,Rivers & Inland,39.65,-8.583333333,1282584.0,False,9
+Belmonte,Centro,Countryside,40.366666666,-7.35,30178.0,False,7
+Covilhã,Centro,Countryside,40.28333333,-7.5,349022.0,False,23
+Ansião,Centro,Off the Beaten Track,39.916666666,-8.433333333,10020.0,False,5
+Batalha,Centro,Off the Beaten Track,39.65,-8.816666666,66678.0,False,11
+Aguiar da Beira,Centro,Off the Beaten Track,40.818008,-7.541404,9320.0,False,9
+Carregal do Sal,Centro,City & Culture,40.433333333,-8.0,10298.0,False,7
+Castro Daire,Centro,Off the Beaten Track,40.9,-7.933333333,16581.0,False,13
+Mangualde,Centro,Off the Beaten Track,40.6,-7.766666666,28799.0,True,21
+Nelas,Centro,Off the Beaten Track,40.516666666,-7.85,69990.0,False,10
+Oliveira de Frades,Centro,Off the Beaten Track,40.733333333,-8.166666666,5874.0,False,5
+Penalva do Castelo,Centro,Off the Beaten Track,40.666666666,-7.683333333,13520.0,False,6
+Santa Comba Dão,Centro,Off the Beaten Track,40.4,-8.133333333,2430.0,False,7
+São Pedro do Sul,Centro,Off the Beaten Track,40.75,-8.066666666,152540.0,False,13
+Sátão,Centro,Off the Beaten Track,40.733333333,-7.716666666,4215.0,False,15
+Mondim de Basto,Norte,Off the Beaten Track,41.4,-7.95,55177.0,False,6
+Guimarães,Norte,City & Culture,41.445,-8.290833333,397905.0,False,52
+Póvoa de Lanhoso,Norte,Off the Beaten Track,41.566666666,-8.266666666,28016.0,False,13
+Vieira do Minho,Norte,Off the Beaten Track,41.633333333,-8.133333333,72256.0,False,7
+Vila Nova de Famalicão,Norte,City & Culture,41.416666666,-8.516666666,71790.0,False,20
+Vizela,Norte,Off the Beaten Track,41.383333333,-8.3,26741.0,False,2
+Arouca,Norte,City & Culture,40.933333333,-8.25,41649.0,False,14
+São João da Madeira,Norte,Off the Beaten Track,40.9,-8.5,52488.0,False,1
+Alvito,Alentejo,Off the Beaten Track,38.25,-7.983333333,8073.0,True,19
+Barrancos,Alentejo,Off the Beaten Track,38.130733333,-6.976102777,3597.0,False,1
+Beja,Alentejo,Rivers & Inland,38.015555555,-7.865277777,249464.0,False,17
+Castro Verde,Alentejo,Off the Beaten Track,37.697625,-8.081861111,21302.0,False,9
+Cuba,Alentejo,Rivers & Inland,38.15,-7.883333333,7339.0,False,8
+Ferreira do Alentejo,Alentejo,Off the Beaten Track,38.058888888,-8.115555555,28310.0,False,2
+Mértola,Alentejo,Rivers & Inland,37.633333333,-7.65,55987.0,False,7
+Moura,Alentejo,Rivers & Inland,38.139694444,-7.450472222,30942.0,True,23
+Ourique,Alentejo,Off the Beaten Track,37.65,-8.225,13912.0,False,3
+Serpa,Alentejo,City & Culture,37.933333333,-7.583333333,32873.0,False,9
+Vidigueira,Alentejo,Off the Beaten Track,38.2,-7.8,20613.0,False,6
+Amarante,Norte,City & Culture,41.269027777,-8.078361111,92341.0,False,25
+Baião,Norte,City & Culture,41.166666666,-8.033333333,86949.0,False,13
+Felgueiras,Norte,Off the Beaten Track,41.366667,-8.2,30653.0,False,14
+Lousada,Norte,Off the Beaten Track,41.283333333,-8.283333333,38070.0,False,6
+Marco de Canaveses,Norte,City & Culture,41.183333333,-8.15,27592.0,True,27
+Paços de Ferreira,Norte,Off the Beaten Track,41.283333333,-8.383333333,26828.0,False,5
+Penafiel,Norte,City & Culture,41.2,-8.283333333,87969.0,False,23
+Cinfães,Norte,Off the Beaten Track,41.066666666,-8.083333333,23595.0,False,7
+Resende,Norte,City & Culture,41.1,-7.95,25599.0,False,12
+Alijó,Norte,Off the Beaten Track,41.276444,-7.474889,64380.0,False,13
+Mesão Frio,Norte,Off the Beaten Track,41.166666666,-7.883333333,32788.0,False,10
+Murça,Norte,Off the Beaten Track,41.4,-7.45,4142.0,False,4
+Albufeira,Algarve,Beach & Relax,37.0897,-8.24583,7450860.0,False,26
+Alcoutim,Algarve,Off the Beaten Track,37.469972222,-7.473111111,14014.0,False,7
+Aljezur,Algarve,Beach & Relax,37.317777777,-8.8,178738.0,False,8
+Castro Marim,Algarve,Rivers & Inland,37.216666666,-7.45,165553.0,False,9
+Faro,Algarve,Beach & Relax,37.016111111,-7.935,752782.0,False,37
+Lagoa (Algarve),Algarve,Beach & Relax,37.133333333,-8.45,1750247.0,False,10
+Lagos,Algarve,Beach & Relax,37.102777777,-8.672777777,1805905.0,False,18
+Loulé,Algarve,Beach & Relax,37.14399,-8.02345,2865348.0,False,22
+Monchique,Algarve,Off the Beaten Track,37.316666666,-8.6,112828.0,False,3
+Olhão,Algarve,Beach & Relax,37.027777777,-7.838888888,272339.0,False,13
+Portimão,Algarve,Beach & Relax,37.133333333,-8.533333333,2796622.0,False,18
+São Brás de Alportel,Algarve,Off the Beaten Track,37.15,-7.883333333,15992.0,False,1
+Silves,Algarve,Beach & Relax,37.183333333,-8.433333333,287246.0,False,20
+Tavira,Algarve,Beach & Relax,37.13085,-7.6506,794963.0,False,20
+Vila do Bispo,Algarve,Beach & Relax,37.0825,-8.911944444,477368.0,False,20
+Vila Real de Santo António,Algarve,Beach & Relax,37.2,-7.416666666,1041600.0,False,7
+Alcobaça,Centro,Beach & Relax,39.55,-8.975,141931.0,False,19
+Bombarral,Centro,Off the Beaten Track,39.266666666,-9.15,19847.0,False,7
+Caldas da Rainha,Centro,Beach & Relax,39.406916666,-9.13625,215324.0,False,15
+Azambuja,Alentejo,Off the Beaten Track,39.066666666,-8.866666666,14296.0,False,9
+Almeirim,Alentejo,Off the Beaten Track,39.216666666,-8.633333333,24050.0,False,1
+Alpiarça,Alentejo,Off the Beaten Track,39.259305555,-8.584972222,2659.0,False,3
+Benavente,Alentejo,Off the Beaten Track,38.983333333,-8.816666666,33331.0,False,3
+Cartaxo,Alentejo,Off the Beaten Track,39.15,-8.783333333,11882.0,False,4
+Chamusca,Alentejo,Off the Beaten Track,39.35,-8.483333333,3934.0,False,0
+Espinho,Norte,Off the Beaten Track,41.01,-8.64,167444.0,False,3
+Santa Maria da Feira,Norte,City & Culture,40.933333333,-8.533333333,114426.0,False,15
+Oliveira de Azeméis,Norte,City & Culture,40.833333333,-8.483333333,38935.0,False,11
+Vale de Cambra,Norte,Off the Beaten Track,40.85,-8.4,12627.0,False,3
+Gondomar,Norte,Off the Beaten Track,41.15,-8.533333333,101891.0,False,6
+Valongo,Norte,City & Culture,41.183333333,-8.5,93795.0,False,2
+Vila do Conde,Norte,Beach & Relax,41.35,-8.75,139036.0,False,33
+Vila Nova de Gaia,Norte,Beach & Relax,41.133333333,-8.616666666,1192707.0,False,40
+Trofa,Norte,Off the Beaten Track,41.337388888,-8.559611111,13236.0,False,3
+Chaves,Norte,City & Culture,41.739869444,-7.470680555,233481.0,False,26
+Montalegre,Norte,City & Culture,41.816666666,-7.783333333,26487.0,False,11
+Ribeira de Pena,Norte,City & Culture,41.516666666,-7.8,36047.0,False,4
+Valpaços,Norte,Off the Beaten Track,41.6,-7.316666666,12842.0,False,15
+Vila Pouca de Aguiar,Norte,Off the Beaten Track,41.483333333,-7.633333333,36433.0,False,15
+Boticas,Norte,Off the Beaten Track,41.683333333,-7.666666666,18348.0,False,9
+Castelo de Paiva,Norte,City & Culture,41.033333333,-8.266666666,39343.0,False,7
+Celorico de Basto,Norte,City & Culture,41.386888888,-8.002166666,38536.0,False,7
