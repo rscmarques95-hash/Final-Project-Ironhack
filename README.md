@@ -6,9 +6,9 @@ Final Project · Ironhack Data Analytics · Raquel Marques
 
 | | Link |
 |---|---|
-| 📊 Tableau dashboard | [add link] |
-| 🧭 Streamlit app – *Plan my trip* | [add link] |
-| 🎤 Presentation | [add link] |
+| 🧭 Streamlit app – *Plan my trip* | [discover-portugal.streamlit.app](https://discover-portugal.streamlit.app) |
+| 📊 Tableau dashboard | [Discover Portugal (full)](https://public.tableau.com/app/profile/raquel.marques7182/viz/DiscoverPortugal-IronhackFinalProject/DiscoverPortugalfull) |
+| 💻 Code | [GitHub](https://github.com/rscmarques95-hash/Final-Project-Ironhack) |
 
 ---
 
@@ -75,7 +75,7 @@ One package per region: the theme is the region's specialty, and every other par
 | 🏛️ Culture & Heritage · Lisbon | May, Jun, Sep | Feb, Mar, Jun | China, Brazil, United States |  |
 | 🏛️ Culture & Heritage · North | May, Jun, Oct | Feb, Mar, Jul | Spain, Brazil, China | Vila Nova de Foz Côa, Marco de Canaveses, Torre de Moncorvo |
 
-*Best time to travel = good months with fewer tourists (August is the peak for every package). When to sell = 3 months before (our assumption, see Limitations).*
+*Best time to travel = good months with fewer tourists (August is the peak for every package). When to sell = 3 months before (my assumption, see Limitations).*
 
 Every package also says what **🍽️ you must try**: the traditional dishes of the region (7 Maravilhas da Gastronomia) and its DOP/IGP products, in English and **never repeated** in the same trip.
 
@@ -86,7 +86,8 @@ Each package has an itinerary, built with simple rules (code in [`app/itinerary.
 - **Islands:** the trip stays on **one island**.
 - **Beach & Sun:** no jumping around: **one base town** and a different beach every day (less than 40 km, the closest first).
 - **Other packages:** a road trip from the best town (UNESCO sites and historic villages count 3 times); each day the best town **less than 60 km** away. In the app the tourist can choose another start (e.g. Óbidos).
-- **Hidden gems:** in trips of 5+ days, one day goes to the closest hidden gem.
+- **Hidden gems:** in trips of 5+ days, one day goes to the closest hidden gem (💎).
+- **Well-known towns:** for culture and mix trips, the route only uses towns that tourists already know a little (in the top 60% of stays of the region) and that have enough to see, so the trip doesn't stop in towns with only one small monument.
 - **Places per day** depend on the theme: 1 beach, 2 natural areas, 2 villages, 3 viewpoints, 4 monuments (completed with the towns around, less than 25 km).
 - **Order:** the towns are put in the **shortest round trip** (back to the start at the end), so the trip never goes back and forth.
 - The 7-day itineraries are saved in `data/clean/itineraries_7_days.csv`.
@@ -105,15 +106,20 @@ The app has 3 tabs:
 - **📍 My Portugal:** the tourist adds the towns they've already visited (sidebar, or ✅ "I did this trip"). They appear as pins on a map, with the progress by region, and the itineraries **don't recommend them again**.
 - **🌍 For travel agencies:** choose a country and see which packages to sell there (preference index).
 
-*"I prefer fewer tourists"* skips the busiest half of the towns of the region in that month. Photos come from Wikipedia (they need internet).
+*"I prefer fewer tourists"* skips the busiest half of the towns of the region in that month.
+
+**Photos:** each day shows a photo, and the same photo is never repeated in one trip. The app looks in this order: 1) my own photos in `app/Photos` (the file name is the place or town, e.g. `Alemães Beach.jfif`), 2) Wikipedia, 3) Wikimedia Commons, 4) the dish of the day, 5) the region. To add a photo, just save it in `app/Photos` with the name of the place.
 
 ## 🗂️ Project structure
 
 ```
 Final Project/
+├── .streamlit/config.toml      # app theme (light mode)
 ├── app/
 │   ├── app.py                  # Streamlit app "Plan my trip"
-│   └── itinerary.py            # rules for the day-by-day itineraries
+│   ├── itinerary.py            # rules for the day-by-day itineraries
+│   ├── english.py              # English names for places and dishes
+│   └── Photos/                 # my own photos for the app
 ├── data/
 │   ├── raw/                    # original files + SOURCES.md
 │   └── clean/                  # files created by the notebooks
@@ -121,7 +127,7 @@ Final Project/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_statistics.ipynb
 │   └── 03_packages.ipynb
-├── Discover_Portugal.twb       # Tableau workbook
+├── Discover Portugal - Ironhack Final Project.twb   # Tableau workbook (one dashboard)
 ├── requirements.txt
 └── README.md
 ```
@@ -134,8 +140,10 @@ Final Project/
 - The itineraries skip classified places that don't interest most tourists (small churches, chapels, pillories, fountains, houses…). This list is a simple rule by type of place, not a popularity measure.
 - The itineraries use **straight-line distances**, not real driving times, and don't include hotels or opening hours.
 - Small classified monuments (road markers, pillories, stone crosses) **don't count** as quality markers: nobody travels to see them.
-- **When to sell = 3 months before the trip** is our **assumption**: we have no data on when tourists book their holidays, and it can be different for each country.
+- **When to sell = 3 months before the trip** is my **assumption**: I have no data on when tourists book their holidays, and it can be different for each country.
 - We only recommend **Blue Flag beaches** (official quality). Some wild and beautiful beaches, like **Praia de Cacela Velha**, don't have a Blue Flag, so they are not in the packages.
+- **Testing:** the app was tested with my own interests and with real users (my mum), and it worked well. But in some random tests it recommended places that are not so interesting for foreign tourists, so it needs deeper tests.
+- **Photos:** some photos are chosen by me, but most are found automatically by keywords on Wikipedia, and sometimes the photo is not the right one.
 
 ## 🔭 Future recommendations
 
@@ -145,5 +153,8 @@ Final Project/
 - **Research when tourists book** their holidays (by country, e.g. Turismo de Portugal or travel agency surveys), to know exactly when to sell each package instead of our 3-month assumption.
 - Build a **Food Route** 🍲. Portugal is famous for its excellent food and high-quality products (DOP/IGP cheeses, wines, olive oils…), so food should be a reason to travel, not only a tip. We tried a route from North to South (one stop per region, in the town with the most traditional restaurants), but it was too complex to do well in this project: restaurant data from OpenStreetMap is incomplete, and a good route needs restaurants, markets, wineries and festivals. Today each package only says what you **must try**.
 - Add the **Registo Nacional de Turismo** (Turismo de Portugal): tourism activity companies (surf, hiking, boat trips…) and accommodation capacity. The open version on dados.gov.pt has not been updated since 2020, so a recent version is needed.
+- **More packages per region** and **niche packages** (bird watching, surfing, food, hiking), because each region has more to offer than its specialty.
+- **Deeper tests** of the app with more users, and a better filter of the places it recommends.
+- A **good photo database** for the app: in travel, good photos really attract clients.
 - **Take the model to other countries** (e.g. Spain or Italy). The method can be used again: preference index, specialty index, hidden gems and the itinerary rules. It only needs the overnight stays by month and by country of origin, and the places with a quality marker (UNESCO, Blue Flag, protected areas…) of that country.
-- Add the **average price** of each destination (accommodation, food…), so clients can choose destinations that fit their **budget**. This also turns the packages into real offers.
+- Add **tourist income** and the **average price** of each destination (accommodation, food…), so clients can choose destinations that fit their **budget**. This also turns the packages into real offers.
